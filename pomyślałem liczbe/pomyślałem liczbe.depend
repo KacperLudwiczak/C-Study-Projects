@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658682748 source:c:\users\kacper\desktop\pomyœla³em liczbe\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
